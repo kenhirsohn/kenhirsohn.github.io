@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<manifest identifier="eExyUJAwQjcIgMeiJB403A4AJ82ZsgCIyny6YlyY" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Change Champions - Alation Pros in Action v.0.8</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Change Champions - Alation Pros in Action v.0.8</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+      <file href="scormcontent/lib/main.bundle.js"/>
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/main.bundle.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/EJ86j1kfXzMPsWjp-museosans-300-webfont.woff" />
+<file href="scormcontent/lib/fonts/pgEujGvqdmhJIgfZ-museosans-300-italic-webfont.woff" />
+<file href="scormcontent/lib/fonts/MACsgS_sr8o5c6Wm-museosans-700-webfont.woff" />
+<file href="scormcontent/assets/BDyUFV5DxeSXQJCT_small.png" />
+<file href="scormcontent/assets/jALf149L561WF3NX_0ApL0qMN-ns_Ttzv.png" />
+<file href="scormcontent/assets/a5pIUKPgDnFP7kiz_AkIAAnMgYR10ASd1.png" />
+<file href="scormcontent/assets/kJgf2sqOJ8E5TIR8_transcoded-H7CHOcNt1U-53417-arif-and-chelsea-intro-v-0-7-w-2-00001.png" />
+<file href="scormcontent/assets/F4ZBQ4I4tlLCC-7f_transcoded-H7CHOcNt1U-53417-arif-and-chelsea-intro-v-0-7-w-2.mp4" />
+<file href="scormcontent/assets/C3zfC3uxZDXx3Mk4_wDwRMEAI5Mmoz_Kp.jpg" />
+<file href="scormcontent/assets/cCcQ3fEGfaiR6dkU_mountains.jpg" />
+<file href="scormcontent/assets/g90LwRv5544eK4js_2-uGM5bRTiWEOnkp.jpg" />
+<file href="scormcontent/assets/HuIPaITyib1-ZVC6_YZOP0FPUOD5QZGVO.jpg" />
+<file href="scormcontent/assets/CEdKq9sD2lrcamgZ_p_MBttV-UjEE60Qe.jpg" />
+<file href="scormcontent/assets/ZH3KO-bB0BG_mfY6_yuG5ohQlvRvz1-kt.jpg" />
+<file href="scormcontent/assets/TFpzJnQFMdZnAVnW_transcoded-dbggpsclY3gTgLeO-wings-methodology-intro-v-0-8-take-2-00001.png" />
+<file href="scormcontent/assets/9PJ3yCZ3D0ZOBDKX_transcoded-dbggpsclY3gTgLeO-wings-methodology-intro-v-0-8-take-2.mp4" />
+<file href="scormcontent/assets/Ceqs3eXQy0MKYnsl_cnEBdUjDdaNvkkyQ.png" />
+<file href="scormcontent/assets/sj7CEqP26cggFSu__bNAcpozunOIp2j5_.gif" />
+<file href="scormcontent/assets/pdREx0L5xU6oAqQj_HNN2rNLUm2WODz3T.gif" />
+<file href="scormcontent/assets/RMBojzPbri_wAQHY_transcoded-iuJYoKkutIgUrsgs-deb-and-valerie-with-typewriter-v-0-7-revised-00001.png" />
+<file href="scormcontent/assets/5wLS6U_6-lwadbTz_transcoded-iuJYoKkutIgUrsgs-deb-and-valerie-with-typewriter-v-0-7-revised.mp4" />
+<file href="scormcontent/assets/E9plNOfNKyi-pLgN_pL925W4eqLfN8CmY.gif" />
+<file href="scormcontent/assets/woe9m5eCw_NZWShh_v5hrbgxtzgYFJp66.jpg" />
+<file href="scormcontent/assets/P_4Chvat6zSQHcGg_YWe5LVdxXd8kDioA.png" />
+<file href="scormcontent/assets/E4YhuBQT2G9GA9sa_n7QiYlNHJr1jh2bv.gif" />
+<file href="scormcontent/assets/tpV7NSysXHZLazIm_nD8Jt9GQO5S8qFwa.jpg" />
+<file href="scormcontent/assets/xpHmMjwaUV9tsCqq_otgEXfz9jUgkz3Nr.png" />
+<file href="scormcontent/assets/KGViYo9mlLa7FhCH__PfTv3isLwz8Om-R.gif" />
+<file href="scormcontent/assets/8-uCD2VGY0PNg0Kc_c-zGdEkBnYa4EWmz-change-management-checklist.pdf" />
+<file href="scormcontent/assets/vL6H5LYFqMpIru2-_transcoded-cVxSAaXm4kQa3D6p-change-management-summary-slide-v-0-7.mp3" />
+<file href="scormcontent/assets/ia1GsNVgk26_OYGa_8lJJvWXUpp-PZ3sr-stock-image.jpg" />
+
+    </resource>
+  </resources>
+</manifest>
