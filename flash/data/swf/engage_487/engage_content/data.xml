@@ -1,0 +1,42 @@
+<Interaction Type="Labeled Graphic" Title="Investor Funding Selection Exploration" contentfont="Articulate" dotanimation="spin" defaultimage="false" jpegquality="80" autoplay="false" autoplayduration="5" headingfont="Articulate" navfont="Articulate" soundeffects="true" volumebutton="true" audioquality="low" audiocustombitrate="br112Kbps" audiocustomfrequency="fq12KHz" audiocustomchannel="ccMono" navbuttons="true" forceorder="false" detectflashver="true" animation="bounce" version="2.2.907.1413" borderstyle="round_inset">
+  <bgimage src="image0.jpg" percent="30" originalSource="imageSource0.jpg" width="412" height="278" />
+  <labels>
+    <label char="2" panelpos="auto" iconid="6" x="206" y="107">
+      <color name="Blue" valuea="0x33CCFF" valueb="0x003399" inner="0x000000" hovera="0x79FFE1" hoverb="0x01A7A7" />
+      <steps>
+        <Step id="ca813577-cd88-4907-be5a-1051b1b7c30d" name="Table Funding" title="" number="1" audioonly="false" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Select the investor listing that is in this format, with &quot;Table&quot; after the investor's name if you are going to use Table Funding.  Note that not all investors offer this option.&lt;/font&gt;&lt;/p&gt;">
+          <audio name="audio10.mp3" source="audioSource10.wav" duration="10800" />
+        </Step>
+      </steps>
+    </label>
+    <label char="1" panelpos="auto" iconid="6" x="160" y="141">
+      <color name="Blue" valuea="0x33CCFF" valueb="0x003399" inner="0x000000" hovera="0x79FFE1" hoverb="0x01A7A7" />
+      <steps>
+        <Step id="985a8b77-10bd-4bc1-838f-9af898c03012" name="Traditional" title="" number="2" audioonly="false" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;If you are using traditional funding, select the investor that is listed like this.&lt;/font&gt;&lt;/p&gt;">
+          <audio name="audio7.mp3" source="audioSource7.wav" duration="6500" />
+        </Step>
+      </steps>
+    </label>
+    <label char="3" panelpos="auto" iconid="6" x="298" y="124">
+      <color name="Blue" valuea="0x33CCFF" valueb="0x003399" inner="0x000000" hovera="0x79FFE1" hoverb="0x01A7A7" />
+      <steps>
+        <Step id="f8b20583-3119-4d28-a368-ca3420487af8" name="Loan in Investor's name" title="" number="3" audioonly="false" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;If you are closing in the investor's name, select the investor from the list that has &quot;in investor's name&quot; entered.  Note that not all investor's offer this option.&lt;/font&gt;&lt;/p&gt;">
+          <audio name="audio5.mp3" source="audioSource5.wav" duration="10600" />
+        </Step>
+      </steps>
+    </label>
+  </labels>
+  <introduction>
+    <label panelpos="auto" iconid="intro" x="-131" y="-88">
+      <color name="Green" valuea="0x99CC00" valueb="0x006600" inner="0x002F00" hovera="0xFFFFFF" hoverb="0x99CC00" />
+      <steps>
+        <Step id="7e0f3a95-7e1b-41c8-9ade-6e7823805d70" name="Introduction" title="" number="0" audioonly="false" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;To have a loan fund with table funding or in the investor's name, you need to select the correct investor from the list.  Click below to learn more about models that are 1) traditional, 2) table funding, or 3) in the investor's name &lt;/font&gt;&lt;/p&gt;" intro="true">
+          <audio name="audio9.mp3" source="audioSource9.wav" duration="14300" />
+        </Step>
+      </steps>
+    </label>
+  </introduction>
+  <nextslide enabled="False" text="" show="" />
+  <starttip show="true" text="Click next to continue" />
+  <resume id="5b2ffcc0-4e3a-4baf-a8b7-cbc8808946a8" enabled="false" />
+</Interaction>

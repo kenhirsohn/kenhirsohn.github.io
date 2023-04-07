@@ -1,0 +1,16 @@
+<Interaction Type="Tabs" ContentFolder="proj_content" Title="Mortgage Insurance Calculation" Numbering="0" animation="bounce" contentfont="Articulate" tabwidth="192" jpegquality="80" autoplay="false" autoplayduration="5" headingfont="Articulate" navfont="Articulate" soundeffects="true" volumebutton="true" audioquality="low" audiocustombitrate="br112Kbps" audiocustomfrequency="fq12KHz" audiocustomchannel="ccMono" navbuttons="true" forceorder="false" detectflashver="true" version="2.2.907.1413" borderstyle="round_inset">
+  <steps>
+    <Step id="0c325a8e-69d1-4148-8fa3-4b4ffd3dced4" name="Introduction" title="" number="" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='16' color=''&gt;To learn about the key fields in the MIP/PMI Calculation worksheet, click on the appropriate box.  If you need to learn how to do these calculations for FHA loans, click the first box.  If you are interested in calculations for Conventional Loans, click the second box.  When you are done, or if you don't need to know this information, click on the Next Slide button in the upper right of the player.&lt;/font&gt;&lt;/p&gt;" intro="true">
+      <audio name="audio0.mp3" source="audioSource0.wav" duration="23400" />
+    </Step>
+    <Step id="8ffe74c5-d6f7-4455-b1ba-b47f8df638c7" name="For FHA Loans" title="" number="" html="&lt;p&gt;&lt;font face='Articulate' size='16' color='#000000'&gt; &lt;/font&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;">
+      <image width="316" height="380" zoomheight="516" playbar="true" autoplay="true" zoomwidth="432" zoommode="Embedded" allowzoom="false" align="top" duration="42762" framerate="30" name="video0.flv" zoomimage="" />
+    </Step>
+    <Step id="18560d9d-7dca-43c0-9473-6c34348c04c3" name="For Conventional Loans" title="" number="" html="&lt;p&gt;&lt;font face='Articulate' size='16' color='#000000'&gt; &lt;/font&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;">
+      <image width="318" height="380" zoomheight="516" playbar="true" autoplay="true" zoomwidth="432" zoommode="Embedded" allowzoom="false" align="top" duration="40176" framerate="30" name="video1.flv" zoomimage="" />
+    </Step>
+  </steps>
+  <nextslide enabled="False" text="" show="" />
+  <starttip show="true" text="Click next to continue" />
+  <resume id="684a74cf-10d5-4f93-9e88-850cf9998ebf" enabled="false" />
+</Interaction>

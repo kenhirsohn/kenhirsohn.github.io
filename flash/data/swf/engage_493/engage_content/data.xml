@@ -1,0 +1,59 @@
+<Interaction Type="Labeled Graphic" Title="How to Navigate in this course" contentfont="Articulate" dotanimation="spin" defaultimage="false" jpegquality="80" autoplay="false" autoplayduration="5" headingfont="Articulate" navfont="Articulate" soundeffects="true" volumebutton="true" audioquality="low" audiocustombitrate="br112Kbps" audiocustomfrequency="fq12KHz" audiocustomchannel="ccMono" navbuttons="true" forceorder="false" detectflashver="true" animation="bounce" version="2.2.907.1413" borderstyle="round_inset">
+  <bgimage src="image1.jpg" percent="30" originalSource="imageSource1.jpg" width="573" height="470" />
+  <labels>
+    <label panelpos="auto" iconid="1" x="95" y="183">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="ca813577-cd88-4907-be5a-1051b1b7c30d" name="Topic List" title="" number="1" audioonly="false" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;This section of the screen shows the list of topics.  You can click on a topic to jump to that section.  If you click the small arrow to the left of a topic, the list will expand to show you all of the slides in that topic.&lt;/font&gt;&lt;/p&gt;">
+          <image width="312" height="58" zoomheight="43" playbar="false" autoplay="false" zoomwidth="230" zoommode="Embedded" allowzoom="false" align="bottom" duration="0" framerate="30" name="image3.jpg" zoomimage="" />
+          <audio name="audio1.mp3" source="audioSource1.wav" duration="13500" />
+        </Step>
+      </steps>
+    </label>
+    <label panelpos="auto" iconid="1" x="115" y="425">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="985a8b77-10bd-4bc1-838f-9af898c03012" name="Adjust the sound" title="" number="2" audioonly="false" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Click on this icon to adjust the volume or mute the sound.&lt;/font&gt;&lt;/p&gt;">
+          <audio name="audio2.mp3" source="audioSource2.wav" duration="6300" />
+        </Step>
+      </steps>
+    </label>
+    <label panelpos="auto" iconid="1" x="299" y="404">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="f8b20583-3119-4d28-a368-ca3420487af8" name="Playbar and Controls" title="" number="3" audioonly="false" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;The playbar below shows the amount of time elapsed in the current slide.  You can drag the time bar to move forward or backward.  The Play/Pause button allows you to stop.  After you do exercises during the course, you may need to click the Play button to restart.  The other two buttons allow you to move forward or backward through the slides, which you can also do using the topic list on the left of the player.&lt;/font&gt;&lt;/p&gt;">
+          <audio name="audio4.mp3" source="audioSource4.wav" duration="23700" />
+        </Step>
+      </steps>
+    </label>
+    <label panelpos="auto" iconid="1" x="536" y="406">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="033db59d-d3d3-4cc9-8c0a-63fed9adfb56" name="Screen Display" title="" number="4" audioonly="false" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;These two buttons change what you see on the screen.  The button on the left brings up notes, so you can read what your instructor is saying.  The button on the right changes the layout of the screen - for example, you can hide the topic list to see more clearly what is on the slide.  &lt;/font&gt;&lt;/p&gt;">
+          <audio name="audio5.mp3" source="audioSource5.wav" duration="17100" />
+        </Step>
+      </steps>
+    </label>
+    <label panelpos="left" iconid="1" x="522" y="81">
+      <color name="Red" valuea="0xDD4809" valueb="0x912020" inner="0x5C1414" hovera="0xFCCFBC" hoverb="0xDD4809" />
+      <steps>
+        <Step id="0b27a236-6fdf-4fd2-983f-46fcfe5848db" name="Lesson Exit" title="" number="5" audioonly="false" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;Click this button and answer &quot;Exit Now&quot; if you want to close the lesson player.&lt;/font&gt;&lt;/p&gt;">
+          <audio name="audio6.mp3" source="audioSource6.wav" duration="6100" />
+        </Step>
+      </steps>
+    </label>
+  </labels>
+  <introduction>
+    <label panelpos="auto" iconid="intro" x="255" y="80">
+      <color name="Green" valuea="0x99CC00" valueb="0x006600" inner="0x002F00" hovera="0xFFFFFF" hoverb="0x99CC00" />
+      <steps>
+        <Step id="7e0f3a95-7e1b-41c8-9ade-6e7823805d70" name="Introduction" title="" number="0" audioonly="false" html="&lt;p align='left'&gt;&lt;font face='Articulate' size='13' color=''&gt;If you haven't taken training in this format before, take a moment to explore the lesson player to see the features that can make it easy for you to find the topics that you want and repeat content or jump ahead when you need to.  Move your mouse over the red buttons to get a highlight of what the controls do, and click on the red button in any area that you want to explore.  Whenever you are ready to start the course, just click the Next Slide button in the upper right.&lt;/font&gt;&lt;/p&gt;" intro="true">
+          <audio name="audio7.mp3" source="audioSource7.wav" duration="25200" />
+        </Step>
+      </steps>
+    </label>
+  </introduction>
+  <nextslide enabled="False" text="" show="" />
+  <starttip show="false" text="Click next to continue" />
+  <resume id="9894abbb-d144-48e9-9101-1dc740b51272" enabled="false" />
+</Interaction>
